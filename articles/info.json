@@ -1,0 +1,18 @@
+{
+    "articles": [{
+        "link": "/articles/mobile/tmhl_configeditor.html",
+        "date": "21/04/2024",
+        "title": "The Hacking Mobile Lab: ConfigEditor Walkthrough",
+        "readTime": 15,
+        "category": "mobile",
+        "image": "/assets/images/articles/tmhl_configeditor/tmhl_configeditor.png"
+    },
+    {
+        "link": "/articles/mobile/thehackinglab-strings-walkthrough.html",
+        "date": "21/04/2024",
+        "title": "The Hacking Mobile Lab: Strings Walkthrough",
+        "readtime": 10,
+        "category": "mobile",
+        "image": "/assets/images/articles/tmhl_strings.png"
+    }]
+}
