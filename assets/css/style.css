@@ -439,7 +439,19 @@ body.nav-active { overflow: hidden; }
   font-size: var(--fontSize-8);
 }
 
+.block-code {
+  background-color: #555077; /* Tono morado muy pálido */
+  border-radius: 4px; /* Bordes redondeados */
+  padding: 1em; /* Espaciado interno para que no esté pegado al borde */
+  margin: 0.5em 0; /* Margen para separarlo del texto circundante */
+  overflow-x: auto; /* Permite desplazamiento horizontal si el código es muy ancho */
+}
 
+.hljs {
+  display: block; /* Asegura que el código ocupa todo el bloque */
+  line-height: 1.5; /* Espaciado de línea para mayor legibilidad */
+  color: #32cb30; /* Color de texto más oscuro para mejor contraste */
+}
 
 
 
