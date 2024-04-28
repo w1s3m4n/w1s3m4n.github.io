@@ -1,4 +1,32 @@
 {
+    "categories": [{
+        "name": "mobile",
+        "displayName": "Móviles",
+        "image": "/assets/images/categories/mobile_hacking.png",
+        "link": "/articles/mobile/mobile.html"
+    },
+    {
+        "name": "privacy",
+        "displayName": "Privacidad",
+        "image": "/assets/images/categories/privacy.png",
+        "link": "/articles/mobile/privacy.html"
+    },
+    {
+        "name": "hacktivismo",
+        "displayName": "Hacktivismo",
+        "image": "/assets/images/categories/hacktivism.png",
+        "link": "/articles/mobile/hacktivism.html"
+    }],
+
+    "featured": [{
+        "link": "/articles/raw/tmhl_configeditor.md",
+        "date": "21/04/2024",
+        "title": "The Hacking Mobile Lab: ConfigEditor Walkthrough",
+        "readTime": 15,
+        "category": "mobile",
+        "image": "/assets/images/articles/tmhl_configeditor/tmhl_configeditor.png"
+    }],
+
     "articles": [{
         "link": "/articles/mobile/tmhl_configeditor.html",
         "date": "21/04/2024",
@@ -11,7 +39,7 @@
         "link": "/articles/mobile/thehackinglab-strings-walkthrough.html",
         "date": "21/04/2024",
         "title": "The Hacking Mobile Lab: Strings Walkthrough",
-        "readtime": 10,
+        "readTime": 10,
         "category": "mobile",
         "image": "/assets/images/articles/tmhl_strings.png"
     }]
